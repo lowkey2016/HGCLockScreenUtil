@@ -6,10 +6,10 @@
 
 ```
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-	// 初始化
-	[HGCLockScreenUtil observe];
+    // 初始化
+    [HGCLockScreenUtil observe];
 	
-	return YES;
+    return YES;
 }
 ```
 
