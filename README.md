@@ -31,6 +31,6 @@
 }
 ```
 
-Demo 代码引用了：[xindawndev/RecordMyScreen-iOS10](https://github.com/xindawndev/RecordMyScreen-iOS10) :-D
+Demo 代码引用了：[xindawndev/RecordMyScreen-iOS10](https://github.com/xindawndev/RecordMyScreen-iOS10)
 
 可以测试 App 后台被挂起和 App 后台长驻（用 Airplay 录屏时，App 长驻后台）的情况。
