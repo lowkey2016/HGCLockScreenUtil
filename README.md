@@ -4,7 +4,11 @@
 
 使用：
 
+把 `HGCLockScreenUtil.h/.m` 添加到工程。
+
 ```
+#import "HGCLockScreenUtil.h"
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // 初始化
     [HGCLockScreenUtil observe];
